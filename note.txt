@@ -1,0 +1,1 @@
+in TouchableOpacity,we have a feature called activeOpacity{0,1},where one shows no effect on the button
